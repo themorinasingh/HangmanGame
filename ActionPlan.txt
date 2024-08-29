@@ -1,0 +1,14 @@
+Step 1:
+Define a function for game play, that takes the following input:
+- list of random words
+- list of hangman stages
+
+Step 2:
+- Create a while loop, with condition if remaining lifes are greator then 0
+- setup an input function that ask for a letter
+- replace the letter if it is in the word, or deduct a life. 
+- end the loop, if we win the game or run out of lives
+
+step 3:
+we will use an if statement to check if the letter is in the chosen word, if 
+it is we will fillthe blank with the chosen letter
